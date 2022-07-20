@@ -5,12 +5,14 @@ class Title extends React.Component {
   render() {
     const { headline } = this.props;
     return (
-      <h2>{headline}</h2>
+      <main>
+        <h2>{headline}</h2>
+      </main>
     );
   }
 }
 Title.prototypes = {
-  headline: PropTypes.string.isRequired,
+  headline: PropTypes.string.isRequired
 };
 
 export default Title;
