@@ -12,7 +12,7 @@ class PlanetCard extends React.Component {
 
       </div>
     );
-}
+  }
 }
 
 PlanetCard.propTypes = {
