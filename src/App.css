@@ -1,3 +1,42 @@
 .App {
   text-align: center;
+  width: 10px;
+  line-height: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  flex-direction: row;
 }
+.MissionCard{
+  text-align: center;
+  width: 10px;
+  line-height: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Missions{
+  text-align: center;
+  width: 10px;
+  line-height: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.PlanetCard{
+  text-align: center;
+  width: 10px;
+  line-height: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.SolarSystem{
+  text-align: center;
+  width: 10px;
+  line-height: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Title{
+  text-align: center;
+  width: 10px;
+  line-height: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.images{
+  width: 5px;
+  flex-direction: row;
+}
+
